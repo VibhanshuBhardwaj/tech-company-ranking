@@ -1,0 +1,670 @@
+Palantir Technologies	17	42	5	37	1795	38
+Twitter	28	73	15	58	1788	37
+Facebook	125	204	31	173	1731	35
+Google	101	144	30	114	1731	34
+A9.com	17	42	5	37	1720	34
+Infusion	9	30	2	28	1714	34
+Pinterest	7	23	3	20	1712	36
+Yelp	15	39	8	31	1712	34
+Microsoft	128	211	41	170	1706	34
+Lookout	13	40	7	33	1694	34
+Coinbase	3	13	1	12	1659	38
+Minted	13	36	6	30	1658	33
+LinkedIn	43	64	15	49	1657	34
+Amazon	109	202	32	170	1648	33
+Coursera	5	22	0	22	1648	34
+Groupon	7	15	3	12	1639	33
+Apple	13	34	7	27	1637	32
+ContextLogic	12	31	14	17	1626	33
+Pivotal Labs	40	74	31	43	1620	30
+Bloomberg	17	41	10	31	1615	31
+Square	3	14	0	14	1613	36
+Arista Networks, Inc.	14	32	14	18	1612	29
+Electronic Arts	22	51	17	34	1612	30
+Inkling	9	28	6	22	1609	32
+AppDynamics	5	20	3	17	1602	32
+Deloitte	9	31	10	21	1592	30
+AppCentrica Inc.	6	19	2	17	1586	31
+Side Effects Software	10	18	9	9	1582	31
+Zynga	29	73	20	53	1580	31
+SoapBox Innovations	5	12	1	11	1576	32
+UC Davis	2	8	1	7	1576	31
+Eloqua	4	16	0	16	1573	30
+Mozilla	12	30	15	15	1570	31
+McAfee	13	32	10	22	1569	30
+TripAdvisor	6	19	4	15	1565	30
+NVIDIA	20	35	15	20	1560	30
+Bridgit	2	8	0	8	1558	31
+Dropbox	2	7	0	7	1558	34
+Polychart	2	10	1	9	1551	32
+Cisco	4	15	2	13	1548	29
+Forming Technologies Inc	2	8	1	7	1548	30
+Avanade	3	13	0	13	1544	28
+Datahug	3	14	3	11	1543	29
+Hearsay Social	3	11	0	11	1541	31
+Audible, Inc.	4	9	0	9	1540	28
+Code Connect Inc.	2	9	0	9	1540	31
+Bazaarvoice	9	21	7	14	1539	28
+Cogo Labs	2	6	1	5	1537	31
+PointClickCare	5	10	5	5	1537	29
+Acerta	2	9	1	8	1535	31
+Ontario Institute for Cancer Research	11	23	6	17	1533	26
+Trustwave	6	11	6	5	1531	27
+OMERS	5	9	2	7	1530	26
+Oracle	17	36	16	20	1530	29
+Datadog	3	14	2	12	1528	28
+Auvik Networks Inc.	2	6	0	6	1527	28
+FutureAdvisor	4	12	4	8	1527	29
+SMART Technologies	5	13	2	11	1527	25
+Capcom Game Studio Vancouver	5	16	3	13	1526	27
+Kanjoya, Inc	2	7	0	7	1525	28
+TunnelBear	3	11	1	10	1525	28
+Digiflare	3	8	0	8	1524	27
+Hulu	8	18	7	11	1524	29
+Maluuba	6	8	2	6	1524	30
+Casale Media	3	8	0	8	1522	29
+TellApart	3	9	4	5	1522	32
+Toyota Motor Manufacturing Canada	4	18	6	12	1522	26
+Chango	8	17	8	9	1519	29
+AppNexus	4	12	3	9	1517	28
+Lumos Labs (Lumosity)	2	8	0	8	1517	30
+OANDA	22	48	16	32	1517	31
+Paperless Post	3	10	1	9	1517	28
+Pixlee	2	8	0	8	1517	28
+Magnet Forensics	3	11	2	9	1516	25
+RBC Capital Markets	6	18	10	8	1515	26
+Imagine Communications	3	9	0	9	1514	29
+Sift Science	2	6	1	5	1514	31
+Evernote	4	15	6	9	1513	28
+Tagged Inc	3	11	3	8	1513	27
+GREE, Inc.	4	14	5	9	1512	28
+XE.com Inc.	5	18	6	12	1512	28
+LoyaltyOne	17	23	10	13	1510	27
+Hewlett-Packard	6	13	4	9	1509	27
+Samsung Telecommunications America	2	8	0	8	1506	28
+Symphony Commerce	2	7	0	7	1506	31
+Qwantech	2	8	3	5	1504	28
+Uken Games	6	13	7	6	1504	28
+LEXER RESEARCH Inc.	2	7	1	6	1502	27
+ThoughtWorks	3	8	1	7	1502	25
+Nascent Digital	4	9	3	6	1501	26
+SAP	40	59	24	35	1501	28
+Broadcom	11	28	22	6	1500	27
+Appnique	2	7	0	7	1499	27
+You.i	2	7	0	7	1499	25
+Morgan Stanley	11	27	13	14	1496	27
+TD	15	37	19	18	1496	26
+uMentioned	2	6	1	5	1496	29
+Vidyard	2	7	0	7	1496	26
+Evertz	8	15	11	4	1495	27
+Khan Academy	3	8	3	5	1495	30
+Scopely	2	8	1	7	1495	27
+Kik Interactive, Inc.	3	7	3	4	1493	27
+SugarCRM	10	21	13	8	1493	26
+Igloo Software	2	6	0	6	1492	24
+Tableau Software	2	6	0	6	1491	28
+Wireless Generation	3	7	2	5	1491	25
+Index Inc.	2	6	1	5	1490	28
+XMG Studio	10	18	17	1	1490	27
+CI Technologies	2	5	1	4	1489	25
+Crank Software Inc.	4	9	4	5	1489	23
+GREE International, Inc	4	10	5	5	1489	27
+Altera	14	26	15	11	1488	28
+Pebble	4	9	6	3	1487	27
+A Thinking Ape	5	11	5	6	1486	27
+Redwood Strategic Inc.	3	8	2	6	1486	23
+TEDxUW	2	7	2	5	1486	24
+BM Technology Inc	2	6	0	6	1485	23
+Geoware Inc.	2	6	1	5	1484	25
+Airo	2	5	0	5	1483	24
+In the Chat Communications Inc.	3	10	2	8	1483	25
+Ginger.io	2	6	1	5	1482	28
+Wyss Institute for Biologically Inspired Engineering	2	5	0	5	1482	23
+EmployTouch	4	9	4	5	1481	24
+Intel Corporation	4	9	6	3	1481	26
+Nuvation	2	7	1	6	1481	25
+PwC	9	22	12	10	1481	26
+CIBC	26	45	34	11	1480	26
+IBM	100	112	110	2	1480	28
+Peraso Technologies, Inc	2	4	0	4	1480	26
+TD Asset Management	3	8	3	5	1480	24
+Shopify	3	6	1	5	1479	20
+Digiflare Inc.	7	14	7	7	1478	26
+DBRS	7	10	5	5	1477	26
+Noom Inc.	3	7	4	3	1477	26
+Blueprint Software Systems	6	15	6	9	1476	25
+Institute for Quantum Computing	11	16	6	10	1476	24
+Intelligent Mechatronic Systems - IMS	4	10	3	7	1476	22
+OutsideIQ	2	5	0	5	1476	25
+RuffaloCODY	3	8	2	6	1476	23
+500px	2	6	2	4	1475	22
+BNOTIONS	2	6	1	5	1475	23
+Shaw Communications	4	10	6	4	1475	25
+Disqus	3	6	1	5	1474	25
+exactEarth Ltd	6	8	4	4	1474	26
+Paralucent	3	6	1	5	1474	23
+Delego Software Inc.	2	6	1	5	1473	24
+Me	2	7	2	5	1472	21
+Thalmic Labs	4	10	4	6	1472	25
+MappedIn	2	7	1	6	1470	24
+TD Securities	17	48	24	24	1470	27
+Arroware Industries Inc.	2	4	1	3	1469	21
+Feedback Ferret Ltd	2	4	1	3	1469	21
+Nuvation Engineering	2	6	2	4	1469	21
+SAS	2	4	1	3	1469	21
+Students Offering Support (SOS)	2	4	1	3	1469	21
+Achievers	6	13	8	5	1467	23
+Marsh Canada Limited	2	7	2	5	1467	24
+Christie Digital Systems	23	35	34	1	1466	26
+Xtreme Labs Inc. (Acquired by Pivotal Labs Inc.)	2	6	3	3	1466	24
+Datalot Inc	7	19	12	7	1465	26
+Tulip Retail	2	6	1	5	1465	23
+Magna Exteriors and Magna Interiors	2	4	1	3	1464	20
+Teradata Corporation	2	6	1	5	1464	22
+The Peer Group	2	4	0	4	1464	23
+AGF Management Limited	4	11	10	1	1463	24
+Deloitte Canada	7	19	9	10	1462	26
+LogicBlox	2	6	3	3	1462	22
+Scotiabank Global Banking and Markets	4	7	3	4	1461	23
+Western Computer	2	5	2	3	1461	22
+Dejero	2	4	0	4	1460	23
+Embedded Sense Inc.	2	5	2	3	1459	23
+EMC	7	10	7	3	1459	23
+Tagged	32	59	28	31	1458	29
+Sapient Global Markets	2	6	3	3	1456	22
+ZurApps Research Inc.	2	5	0	5	1456	18
+Awareness Inc.	2	8	3	5	1455	22
+Tangam Systems Inc.	2	3	1	2	1455	21
+ZeMind Studios	2	5	1	4	1455	21
+Gumstix, Inc.	2	5	1	4	1454	21
+Jugnoo – Social Media Presence Management	2	7	2	5	1454	22
+KANETIX	2	6	3	3	1454	22
+Simply Good Technologies	2	5	1	4	1454	23
+VMware	2	7	3	4	1454	23
+Avvasi Incorporated	3	5	3	2	1453	22
+Enflick, Inc.	5	11	6	5	1453	24
+Palm	2	4	2	2	1453	24
+Salesforce Work.com	3	5	2	3	1453	21
+Independent Electricity System Operator (IESO)	2	6	2	4	1452	23
+D+H	2	4	0	4	1451	24
+Freelance	3	5	7	-2	1451	27
+FreshBooks	9	17	10	7	1451	27
+OptumSoft	2	4	2	2	1451	23
+Canadian Institute for Health Information	3	5	1	4	1450	18
+Careerify	5	10	7	3	1450	22
+ClevrU	2	6	2	4	1450	22
+Virtium	4	7	4	3	1450	20
+Canada Border Services Agency	5	11	5	6	1449	21
+Citadel LLC	2	4	1	3	1448	23
+Demonware	2	8	4	4	1448	23
+Ooyala	2	5	3	2	1448	24
+PwC Canada	2	3	1	2	1448	23
+Digital Rapids	2	6	1	5	1447	21
+Ministry of Infrastructure	2	3	1	2	1447	18
+ANSYS, Inc.	3	7	3	4	1445	20
+T2VSoft	5	14	9	5	1445	26
+Conrad Business, Entrepreneurship and Technology Centre	2	8	4	4	1444	23
+PumpUp Inc.	3	8	4	4	1444	22
+Rokk3r Labs	2	6	3	3	1444	21
+Aerotek	2	4	1	3	1443	18
+HootSuite	2	6	3	3	1443	23
+Ultimate Software	3	4	1	3	1443	22
+WizardQuant	2	3	1	2	1443	17
+Harris Broadcast	2	3	1	2	1442	20
+N8 Identity Inc.	2	4	3	1	1442	21
+Quantitative Brokers	2	5	3	2	1442	24
+Willet Inc.	2	3	1	2	1442	16
+Exinda Networks	3	6	4	2	1441	20
+RL Solutions	4	7	5	2	1440	23
+SNOLAB	2	3	1	2	1440	16
+Natural Resources Canada, Canada Centre for Remote Sensing	2	3	1	2	1439	20
+Rebellion Media	4	8	5	3	1439	24
+T4G Limited	3	6	2	4	1439	15
+ThoughtWire Corp	3	3	1	2	1439	17
+EventMobi	4	6	5	1	1438	22
+Veeva Systems	2	5	2	3	1438	20
+Blackberry Mobiles (RIM)	2	3	1	2	1437	20
+Tangam Systems	2	3	2	1	1437	23
+Cisco Systems	6	11	11	0	1436	23
+Monstercat Media	2	4	2	2	1436	19
+Ultimate Software (Formerly EmployTouch)	2	4	2	2	1436	20
+Accenture	2	5	2	3	1435	21
+Apotex Inc.	2	4	1	3	1434	17
+Blue Sun Inc.	2	4	2	2	1434	21
+Indochino	2	6	3	3	1434	22
+Microsemi	2	2	1	1	1434	11
+CareZone	2	3	2	1	1433	17
+EVault	3	6	3	3	1433	19
+AJB Software Design Inc.	3	9	3	6	1432	20
+Colibri Technologies Inc.	3	7	5	2	1432	23
+IMVU	10	20	14	6	1432	26
+Skura Corporation	6	10	13	-3	1432	25
+Communitech	8	15	13	2	1431	23
+Glooko	4	7	7	0	1431	24
+Ericsson	10	18	19	-1	1430	24
+NexJ Systems Inc	2	5	2	3	1430	20
+ON Semiconductor	3	6	5	1	1430	22
+Jugnoo Inc.	2	6	3	3	1429	22
+Mercer	6	13	11	2	1429	24
+Infusion Development	2	5	5	0	1428	19
+NetIQ	2	4	1	3	1428	18
+Intelex Technologies Inc.	4	6	5	1	1427	22
+Trans Plus	2	3	2	1	1427	16
+Robarts Research Institute	5	7	6	1	1426	16
+Sunnybrook Health Sciences Centre	9	16	17	-1	1426	23
+WorleyParsons	2	3	2	1	1425	16
+Smiths Detection	2	3	1	2	1424	18
+BBM Canada	5	10	7	3	1423	22
+David R. Cheriton School of Computer Science	2	4	3	1	1422	21
+Kira Talent	4	7	3	4	1422	20
+Morgan Solar Inc.	2	2	1	1	1422	18
+salesforce.com	7	10	12	-2	1422	25
+Coreworx Inc.	2	3	1	2	1421	16
+Government of Canada	10	8	2	6	1421	22
+SkyGrid	3	7	6	1	1421	22
+Aeryon Labs Inc	8	9	11	-2	1420	25
+Procom	2	5	3	2	1420	21
+STMicroelectronics	2	4	3	1	1420	20
+Bell	2	4	4	0	1419	19
+Umeqo	2	3	3	0	1418	22
+Digital Extremes	4	8	8	0	1417	24
+McDonald's Corporation	3	5	2	3	1417	0
+Yahoo!	2	2	1	1	1417	12
+International Datacasting	2	3	2	1	1416	18
+Mercatus Technologies Inc.	3	6	4	2	1416	19
+Citi	8	10	11	-1	1415	22
+Environmental Club	2	6	4	2	1415	16
+Toronto Hydro	4	9	6	3	1415	21
+Meraki, Inc.	2	2	1	1	1414	18
+Nuance Communications	4	8	7	1	1414	19
+CPP Investment Board	10	16	15	1	1413	22
+McAfee, Waterloo	2	4	3	1	1413	19
+Pitney Bowes	8	17	13	4	1413	23
+EXO U Inc.	2	2	1	1	1412	12
+Magnum Semiconductor	2	3	2	1	1412	18
+Symcor	3	3	3	0	1412	15
+ADFLOW Networks	2	3	2	1	1411	15
+Advanced Interface Design Lab	2	4	4	0	1411	21
+Centre for Integrated RF Engineering	2	3	2	1	1411	14
+Defence Research and Development Canada	2	4	5	-1	1410	17
+Sears Canada	2	5	4	1	1410	18
+Metro Inc	2	3	2	1	1409	15
+Princess Margaret Cancer Centre	2	3	2	1	1409	15
+Desire2Learn	66	83	58	25	1407	25
+Oculus Info Inc.	3	4	5	-1	1407	16
+Apple Inc.	2	3	4	-1	1405	18
+Investment Technology Group, Inc.	3	5	5	0	1405	19
+Manulife Financial	27	38	29	9	1405	25
+CaseWare International Inc.	2	3	3	0	1404	16
+Nspire Innovation Network	4	8	10	-2	1404	22
+REAP	2	4	4	0	1404	20
+TELUS	6	17	12	5	1404	24
+City of Mississauga	2	4	5	-1	1403	14
+Ontario Teachers' Pension Plan	25	36	32	4	1403	0
+Qualcomm Innovation Center Inc	5	11	9	2	1403	24
+Reputation.com	2	5	4	1	1403	18
+Sony Network Entertainment Int'l (SNEI)	3	5	6	-1	1402	3
+Starbucks	2	5	5	0	1402	17
+Vale	2	4	4	0	1402	17
+DECA Laurier	2	6	6	0	1401	18
+Scotia Capital	3	8	5	3	1401	20
+Teradata	2	3	3	0	1401	13
+Wind River	3	4	4	0	1401	19
+Autodesk	30	45	27	18	1400	26
+HRSDC	2	2	2	0	1400	11
+Impact Entrepreneurship Group	2	6	7	-1	1400	18
+Prinova	4	7	7	0	1400	19
+Cognizant Technology Solutions	2	1	1	0	1399	6
+Morega Systems Inc.	2	3	4	-1	1399	17
+Rochester Institute of Technology	2	2	2	0	1398	8
+Endeca	2	1	3	-2	1397	17
+N/A	3	5	5	0	1396	16
+Quantica Trading	3	3	3	0	1396	16
+Sony	4	3	3	0	1396	18
+Wattpad	14	16	13	3	1396	25
+Intel	2	2	2	0	1395	15
+PWGSC	7	13	13	0	1395	22
+Meridian Credit Union	2	2	4	-2	1394	12
+Merrill Lynch	14	21	21	0	1394	24
+Magor Corporation	2	3	3	0	1393	12
+Humber College	2	3	4	-1	1392	13
+Pulse Microsystems	2	3	3	0	1392	15
+Scarsin Corporation	2	2	2	0	1392	11
+CGI	18	35	35	0	1391	23
+QNX Software Systems	10	9	5	4	1390	23
+SurfEasy	2	5	5	0	1390	19
+Xtreme Labs	24	54	21	33	1390	28
+AECL	5	12	14	-2	1389	24
+CI Investments Inc.	4	6	8	-2	1388	17
+RIM | BlackBerry	2	4	4	0	1388	15
+Honeywell	2	2	2	0	1387	11
+Retailigence Corporation	2	3	3	0	1387	11
+VitalHub Corp	4	6	6	0	1387	15
+ArcelorMittal Dofasco	3	4	4	0	1386	19
+GroupThinQ Solutions, Inc	3	8	9	-1	1386	21
+ITM House	2	3	3	0	1386	15
+JSI Telecom	7	11	9	2	1386	18
+Radialpoint	4	7	10	-3	1386	20
+Ubisoft	2	3	4	-1	1386	17
+Flagtone Re	2	2	4	-2	1385	15
+National Research Council Canada	3	5	5	0	1385	18
+WatrHub Inc.	2	3	4	-1	1385	13
+Balzac's Coffee Ltd	2	1	1	0	1384	0
+BLK Design	2	1	1	0	1384	0
+Bur Oak Secondary School	2	1	1	0	1384	0
+Craigleith Ski Club	2	1	1	0	1384	0
+DBRS Limited	2	1	2	-1	1384	10
+Health Canada	5	7	8	-1	1384	17
+Imprint Publications	2	1	1	0	1384	0
+Infosys Limited	2	1	1	0	1384	0
+Katlyn Vehicle Management Systems Inc	2	2	2	0	1384	10
+Toronto Western Research Institute	2	1	1	0	1384	0
+YMCAs of Cambridge & Kitchener-Waterloo	2	1	1	0	1384	0
+Beechwood 2 Homes Association	2	2	2	0	1383	9
+Huawei	2	2	3	-1	1383	10
+Ontario Ministry of the Attorney General	4	6	8	-2	1383	19
+Global Storm IT	2	3	3	0	1382	12
+Acuity Ads Inc	2	2	5	-3	1381	14
+Emerging Leader Labs	2	6	5	1	1381	22
+Kaleidescape	12	19	16	3	1381	22
+Broadstreetdata.com	2	2	2	0	1380	7
+Geosyntec Consultants	2	2	2	0	1380	10
+Intuit	2	1	4	-3	1380	7
+Sanofi Pasteur	2	1	3	-2	1380	6
+KPMG Canada	2	2	4	-2	1379	13
+Picton Mahoney Asset Management	2	2	3	-1	1379	9
+Conestoga-Rovers & Associates (CRA)	2	3	4	-1	1378	13
+MySpark Technologies	2	2	6	-4	1378	16
+Agfa Healthcare	4	6	8	-2	1377	17
+Bank of America	4	6	8	-2	1377	19
+Clearbridge Associates Limited	2	3	5	-2	1377	14
+Salesforce.com	2	4	6	-2	1377	17
+Tech Defense	2	1	3	-2	1377	6
+York Region (The Regional Municipality of York)	3	3	3	0	1377	12
+AppZero	3	4	6	-2	1376	16
+CREZ Basketball Systems Inc.	2	3	5	-2	1376	18
+Department of National Defence	8	12	15	-3	1376	21
+Sentinelle Medical	2	4	5	-1	1376	19
+Rypple	2	5	7	-2	1375	16
+Five Mobile Inc.	2	4	8	-4	1374	16
+Hydro One	3	3	6	-3	1374	15
+Marc Garneau Collegiate Institute	2	3	4	-1	1373	12
+RedIron Technologies	4	4	7	-3	1373	19
+Safe Software	2	3	4	-1	1373	15
+Proofpoint	6	12	10	2	1372	22
+Pythian	4	7	10	-3	1372	16
+Armor Games Inc	2	3	4	-1	1371	18
+Avaya	3	6	7	-1	1371	18
+BlueSun Inc	2	2	4	-2	1371	11
+Investors Group	2	1	3	-2	1371	7
+NutriAg Ltd.	2	3	4	-1	1371	13
+Adobe	3	3	3	0	1370	11
+Tennis Canada	2	3	6	-3	1370	15
+DownUnder GeoSolutions Group	3	4	7	-3	1369	16
+International Financial Data Services	4	6	9	-3	1369	18
+Infosys	2	0	2	-2	1368	1
+Intelligent Mechatronic Systems	6	9	12	-3	1368	22
+Conspec Controls Inc	2	4	7	-3	1367	18
+Equitrac	2	2	4	-2	1367	8
+The Weather Network	2	3	5	-2	1367	12
+DRDC	5	7	10	-3	1366	17
+Metrolinx	2	3	6	-3	1366	15
+Quanser	2	3	5	-2	1366	12
+Shodor Education Foundation, Inc.	2	3	4	-1	1366	14
+Wishabi	6	9	11	-2	1366	20
+Brock Solutions	6	8	12	-4	1365	21
+Primal	3	4	4	0	1365	21
+THEMUSEUM	2	4	6	-2	1365	16
+ESRI Canada	2	2	4	-2	1364	9
+The Economical Insurance Group	2	3	5	-2	1364	14
+Magmic Inc.	2	1	5	-4	1363	6
+Navtech, Inc.	2	1	3	-2	1363	13
+NumeriX	3	2	5	-3	1363	12
+Polar Mobile	3	5	10	-5	1363	20
+Jonar Systems Inc.	2	3	3	0	1362	13
+City of Waterloo	2	0	3	-3	1361	0
+P&P Optica	2	2	4	-2	1361	11
+Wild Water Kingdom	2	2	5	-3	1361	8
+Afilias	4	5	5	0	1360	15
+Epson	2	3	6	-3	1360	13
+TabbleDabble	2	1	3	-2	1360	4
+Behaviour Interactive	2	3	7	-4	1359	11
+Loblaw Companies Limited	5	5	6	-1	1359	17
+Profit Solutions International	3	2	2	0	1359	12
+Public Health Agency of Canada	7	7	7	0	1359	18
+Sustainable Waterloo Region	4	4	3	1	1359	12
+Firmwater Inc.	2	1	5	-4	1358	8
+Ontario Ministry of Finance	3	2	4	-2	1358	9
+Just Energy	2	0	3	-3	1357	0
+Bookneto	2	3	7	-4	1356	14
+iAnywhere	2	2	5	-3	1356	9
+Metroland	4	4	3	1	1356	17
+TC Media	2	1	3	-2	1356	6
+TTC	16	17	22	-5	1356	20
+Zodiac Swim School	2	2	4	-2	1356	8
+Karos Health	4	3	4	-1	1355	16
+KPMG	2	2	6	-4	1355	9
+Cognitive Development Lab	2	1	2	-1	1354	-1
+eHealth Ontario	3	3	5	-2	1354	12
+Nano-Bio Interface Engineering Group	2	1	2	-1	1354	-1
+Symantec	3	2	7	-5	1354	14
+Symposium on Advanced Intelligent Systems	2	1	2	-1	1354	-1
+TranSaigon Company Ltd.	2	1	2	-1	1354	-1
+Transport Canada	2	1	3	-2	1354	5
+Axentra Corporation	2	1	5	-4	1353	10
+Eqentia	2	3	6	-3	1353	11
+iPaholics	2	2	3	-1	1353	8
+Town of Aurora	2	2	3	-1	1353	7
+Clearbridge Mobile	5	5	11	-6	1352	20
+illustrate inc	2	3	7	-4	1352	10
+Ontario Public Service	3	3	8	-5	1352	13
+Tim Hortons	7	9	16	-7	1352	18
+BMC Software	2	1	5	-4	1351	6
+rL Solutions	2	1	3	-2	1351	1
+Magna International	2	1	5	-4	1350	13
+SkyWave Mobile Communications	3	4	9	-5	1350	15
+Southpaw Technology	3	2	6	-4	1350	13
+The Globe and Mail	9	14	17	-3	1350	21
+Toronto Transit Commission	2	3	8	-5	1349	13
+VerifEye Technologies	3	2	5	-3	1349	10
+Goldman Sachs	2	1	3	-2	1348	0
+Molex	4	5	4	1	1348	18
+GE	3	2	6	-4	1347	11
+Genesys	10	13	19	-6	1347	21
+Mohawk College	2	1	3	-2	1347	6
+Teledyne DALSA	2	3	8	-5	1346	14
+ViXS Systems Inc.	3	4	10	-6	1346	19
+Bombardier Transportation	4	3	3	0	1345	15
+Industry Canada	2	3	12	-9	1345	18
+York Catholic District School Board	3	5	10	-5	1345	15
+Leysin American School in Switzerland	3	2	3	-1	1344	9
+Maplesoft	4	5	11	-6	1344	15
+StudentCatalyst	3	5	10	-5	1344	17
+Citizenship and Immigration Canada	2	3	8	-5	1342	13
+Kontagent	6	8	11	-3	1342	21
+McDonald's Canada	2	3	8	-5	1342	0
+Ontario Ministry of Education	9	10	19	-9	1341	22
+OneSpout.com Inc.	2	1	3	-2	1340	1
+AMD	24	33	37	-4	1339	24
+Best Buy	4	3	7	-4	1339	8
+Canadian Pacific Railway	2	3	8	-5	1339	16
+Economical Insurance	2	2	4	-2	1339	12
+Quanser Inc	3	5	7	-2	1339	14
+Ontario Public Guardian and Trustee	2	1	2	-1	1338	-1
+Orbit Group Partners	2	1	3	-2	1338	0
+Bell and Howell	3	2	2	0	1337	9
+Midnight Sun Solar Rayce Car Team	2	0	4	-4	1337	0
+Objectifi Inc	2	0	5	-5	1337	0
+YMCA of Greater Toronto	2	0	5	-5	1337	1
+Fixmo	13	13	13	0	1336	23
+pVelocity	2	1	3	-2	1336	0
+Statistics Canada	4	5	9	-4	1336	15
+Babcock & Wilcox	3	2	6	-4	1335	10
+IGLOO Software	3	2	8	-6	1335	7
+Clearbridge IT Services Inc.	2	5	6	-1	1334	19
+OpenText	17	22	31	-9	1334	22
+SageData Solutions Inc	2	1	3	-2	1334	5
+CSC	2	0	4	-4	1333	0
+OnCorp Direct Inc.	2	2	7	-5	1333	8
+Shoppers Drug Mart	2	0	4	-4	1333	-1
+Stein Industries Inc	2	1	3	-2	1333	0
+Canada Revenue Agency	2	2	7	-5	1332	8
+kenna:	2	0	5	-5	1332	1
+Points.com	5	7	10	-3	1332	19
+General Motors	7	8	14	-6	1331	19
+RBC	9	17	17	0	1331	20
+TRIUMF	2	1	6	-5	1331	9
+Vortex Connect	2	1	7	-6	1331	9
+Funzio	6	14	13	1	1330	21
+Osler, Hoskin & Harcourt LLP	2	1	6	-5	1330	6
+QuickPlay Media	5	5	10	-5	1330	16
+William Osler Health System	2	1	7	-6	1330	8
+Xtreme Mobility Inc	2	1	6	-5	1330	6
+Zellers	3	0	6	-6	1330	0
+CELT	2	1	3	-2	1329	0
+eSentire Inc.	2	1	6	-5	1329	4
+Kettleby Valley Camp	2	1	3	-2	1329	0
+Metranome	2	1	8	-7	1329	12
+Thales	2	3	8	-5	1329	12
+Canadian Space Agency	5	10	14	-4	1328	20
+imason inc.	5	4	12	-8	1327	14
+Brave Commerce	2	2	8	-6	1326	12
+Cineplex Entertainment	5	5	10	-5	1326	17
+George Brown College	2	0	6	-6	1326	1
+Glocalspace	2	2	5	-3	1325	11
+Mallot Creek Group Inc.	2	0	5	-5	1325	1
+Raytheon	2	1	5	-4	1324	4
+AudienceView Ticketing Corporation	4	3	8	-5	1323	13
+Canadian Medical Protective Association	2	1	5	-4	1323	0
+École Polytechnique de Montréal	2	1	8	-7	1323	4
+Advanced Micro Devices	2	0	7	-7	1322	2
+Infinite Dimensions	2	2	8	-6	1322	10
+Pratt & Whitney Canada	3	4	10	-6	1322	14
+PushLife Inc.	4	4	10	-6	1322	14
+Canadian Undergraduate Technology Conference	6	8	11	-3	1321	19
+Intuit Canada	2	1	9	-8	1321	5
+Ministry of Health and Long-Term Care	3	1	10	-9	1321	4
+OfficeMax Grand & Toy	2	2	8	-6	1321	11
+Roadpost	2	0	7	-7	1319	0
+Waterloo Region District School Board	2	2	7	-5	1319	10
+Info-Tech Research Group	5	6	9	-3	1318	15
+CaseBank Technologies Inc.	3	2	4	-2	1317	6
+CBC	3	3	11	-8	1317	16
+Play Dynamics Inc	2	0	5	-5	1317	0
+Sandvine	16	20	17	3	1317	25
+McKinsey & Company	3	2	8	-6	1316	8
+Phoenix Interactive Design Inc.	3	1	7	-6	1316	6
+Red Iron Technologies	3	1	4	-3	1316	-2
+St. Paul's L'Amoreaux Centre	2	1	5	-4	1316	0
+NCR Corporation	6	7	9	-2	1315	15
+Phoenix Interactive	2	1	8	-7	1315	11
+Science World	2	1	8	-7	1315	7
+OLG	5	6	17	-11	1314	17
+Royal Bank of Canada	3	3	4	-1	1314	14
+Scarborough	2	0	6	-6	1314	0
+The Michener Institute for Applied Health Sciences	3	3	10	-7	1313	12
+VN Instruments Ltd	2	1	4	-3	1313	0
+Clearbridge Associates	4	5	8	-3	1311	18
+Maple Leaf Foods Inc	10	13	22	-9	1310	19
+Mosaic Sales Solutions	5	3	5	-2	1310	18
+Walton International Group	2	1	5	-4	1310	0
+Blue Coat Systems	19	21	31	-10	1309	21
+Moxy Media	3	2	10	-8	1308	8
+Osellus	3	2	8	-6	1308	7
+Staples Business Depot	2	2	8	-6	1308	6
+Subway	2	0	7	-7	1308	-1
+AIESEC BJTU	2	1	4	-3	1307	0
+Aria Solutions	2	1	6	-5	1307	1
+Buck Consultants	2	1	4	-3	1307	0
+Roche Pharmaceuticals	2	1	5	-4	1307	0
+Shad Valley International	3	1	8	-7	1307	6
+NAV CANADA	4	5	11	-6	1306	17
+Okino Computer Graphics	4	4	9	-5	1306	15
+Masstech Group Inc.	2	2	4	-2	1305	9
+RuggedCom	4	3	5	-2	1305	9
+Rockwell Automation	2	0	8	-8	1304	1
+Enomaly Inc.	2	1	5	-4	1303	0
+Bell Canada	2	1	3	-2	1302	1
+GameTime	2	1	4	-3	1302	2
+Enable Training and Consulting, Inc.	4	6	14	-8	1301	13
+TD Bank	2	2	9	-7	1301	10
+ITG	10	12	23	-11	1299	20
+Staples	2	1	7	-6	1299	6
+Indigo	9	16	21	-5	1298	21
+Regional Municipality of York	4	5	14	-9	1297	14
+BMO	26	44	34	10	1296	23
+Wuwei Middle School	2	1	5	-4	1296	1
+McDonald's Restaurants of Canada Limited	2	0	9	-9	1295	0
+MD Physician Services	4	1	10	-9	1295	11
+Waterloo Regional Police Service	3	1	5	-4	1295	-1
+Bioinformatics Solutions Inc.	6	2	13	-11	1294	10
+ITG Canada Corp.	5	5	7	-2	1293	18
+Fisheries and Oceans Canada	2	0	9	-9	1292	0
+The Siroky Group	2	1	5	-4	1291	1
+Ontario Ministry of Government Services	5	6	9	-3	1290	17
+Canadian Cancer Society	3	1	11	-10	1289	4
+Numerix	6	3	8	-5	1289	12
+Rogers Digital Media	4	2	7	-5	1286	9
+TD Bank Group	9	11	15	-4	1286	20
+Canada's Wonderland	4	1	8	-7	1285	0
+City of Toronto	9	9	24	-15	1284	13
+ConceptWave	4	1	12	-11	1282	9
+Sobeys	7	6	16	-10	1282	13
+Bronte College of Canada	4	3	12	-9	1281	11
+Meditech International Inc.	2	1	8	-7	1281	6
+Axsium Group	7	5	20	-15	1279	15
+Hewitt Associates	2	1	11	-10	1279	4
+Ontario Ministry of Transportation	3	1	8	-7	1279	5
+TEVA Canada	3	1	12	-11	1276	5
+DNA - Design & Analysis	2	2	7	-5	1275	7
+Simutech Multimedia Inc.	2	1	3	-2	1275	1
+Qualcomm	39	47	45	2	1274	25
+Unitron Hearing	6	4	11	-7	1273	16
+Canadian Tire	10	8	21	-13	1272	14
+Miovision Technologies	4	2	10	-8	1272	9
+Best Buy Canada	3	0	13	-13	1271	1
+Heat Design Equipment Inc.	2	2	7	-5	1271	5
+Tangam Gaming Inc	7	5	15	-10	1271	14
+i4i	4	3	9	-6	1270	10
+Metadata Technologies	2	1	7	-6	1268	0
+Nestle Purina	2	0	10	-10	1267	2
+Goldcorp Inc	4	3	8	-5	1263	8
+Xandros Corporation	4	2	15	-13	1262	6
+Toronto District School Board	17	14	44	-30	1260	16
+Ministry of Government Services	3	0	13	-13	1259	0
+RamSoft Inc	5	4	16	-12	1259	14
+Natural Resources Canada	7	3	13	-10	1255	11
+Rogers Communications Inc.	3	1	12	-11	1252	0
+IESO	9	6	21	-15	1249	13
+Myplanet Digital	3	1	10	-9	1248	0
+Centre for Education and Training	4	2	11	-9	1247	3
+INI Technology	3	1	9	-8	1247	-1
+Varicent Software	5	1	11	-10	1247	1
+Net Integration Technologies Inc	2	1	7	-6	1246	0
+Open Text	7	10	21	-11	1246	16
+PricewaterhouseCoopers	4	3	13	-10	1246	12
+Sun Life Financial	21	24	36	-12	1246	20
+Alcatel-Lucent	7	5	15	-10	1242	11
+DECA Ontario	3	2	12	-10	1241	6
+Irdeto	7	6	20	-14	1239	15
+Xtreme Labs Inc.	28	32	42	-10	1237	22
+Agriculture and Agri-Food Canada	30	21	37	-16	1234	18
+Town of Markham	4	2	13	-11	1232	4
+Ministry of Natural Resources	3	0	16	-16	1231	2
+Harris Corporation	10	11	25	-14	1227	18
+Ministry of Transportation	6	3	17	-14	1222	9
+Future Shop	4	2	16	-14	1221	4
+SOTI Inc.	5	2	18	-16	1221	10
+Trapeze Group	23	16	41	-25	1218	16
+Rich Media	10	6	21	-15	1215	17
+Kobo Inc.	19	19	39	-20	1208	18
+Bank of Montreal	8	7	20	-13	1206	15
+Rogers Communications	22	19	45	-26	1202	18
+BlackBerry	234	210	192	18	1173	21
+General Dynamics Canada	13	16	33	-17	1164	19
+Environment Canada	31	28	63	-35	1140	18
+Kumon	10	1	29	-28	1134	4
+Peel District School Board	4	1	13	-12	1134	0
+Sybase	50	46	71	-25	1077	20
+Scotiabank	36	32	81	-49	1076	18
+NexJ Systems	63	73	99	-26	1063	21
